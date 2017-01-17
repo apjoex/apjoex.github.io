@@ -25,6 +25,10 @@ github_username:  apjoex
 # Build settings
 markdown: kramdown
 theme: cayman
+# <<<<<<< HEAD
+# =======
+# theme: jekyll-theme-cayman
+# >>>>>>> origin/master
 gems:
   - jekyll-feed
 exclude:
