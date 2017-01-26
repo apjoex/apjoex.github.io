@@ -9,7 +9,7 @@ categories: jekyll update
 
 This privacy policy has been compiled to better serve those who are concerned with how their Data is being used on Moments. Data here means information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your data in accordance with Moments.
 
-**What personal information do we collect from the end users of Moments ?** 
+**What personal information do we collect from the end users of Moments?** 
 
 When ordering or registering on our Application, as appropriate, you may be asked to enter your name, email address, location or other details to help you with your experience.
 
@@ -46,7 +46,8 @@ It's also important to note that we do not allow third-party behavioral tracking
 We do not specifically moments to persons under the age 12.
 
 **We collect your email address in order to:**
-* Send information, respond to inquiries, and/or other requests or questions
+
+Send information, respond to inquiries, and/or other requests or questions
 
 
 
