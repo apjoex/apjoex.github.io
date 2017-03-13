@@ -24,7 +24,8 @@ github_username:  apjoex
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
 exclude:
