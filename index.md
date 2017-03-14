@@ -15,5 +15,4 @@ The posts are attached below.
 </ul>
 
 You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+[Twitter](https://twitter.com/apjoex)
