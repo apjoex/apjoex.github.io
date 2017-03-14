@@ -10,6 +10,8 @@ layout: default
 <i class="fa fa-twitter" aria-hidden="true"></i>[@apjoex](https://twitter.com/apjoex)
 <i class="fa fa-github" aria-hidden="true"></i>[@apjoex](https://github.com/apjoex)
 
+[@apjoex](https://github.com/apjoex)
+
 Here is a list of the few things I've written 👇
 <ul>
   {% for post in site.posts %}
