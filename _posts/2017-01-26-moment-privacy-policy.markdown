@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Moments Privacy Policy"
 date:   2017-01-26 11:11:10 +0100
 categories: jekyll update
