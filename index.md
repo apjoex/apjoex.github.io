@@ -5,6 +5,8 @@
 layout: default
 ---
 
+<p> This is a demo paragraph</p>
+
 [Twitter](https://twitter.com/apjoex)
 [GitHub](https://github.com/apjoex)
 
