@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<p> This is a demo paragraph</p>
+<p style="text-align:center"> This is a demo paragraph</p>
 
 [Twitter](https://twitter.com/apjoex)
 [GitHub](https://github.com/apjoex)
