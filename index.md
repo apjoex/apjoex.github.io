@@ -10,10 +10,12 @@ layout: default
   padding: 0;
   margin: 0;
   display: block;
+  text-align: center;
 }
 
 .ul_block li {
   display: inline;
+      padding: 0 10px;
 }
 </style>
 
