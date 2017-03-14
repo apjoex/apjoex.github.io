@@ -7,7 +7,7 @@ layout: default
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
 <p style="text-align:center; font-size:20px"> 
-<i class="fa fa-twitter"></i>[apjoex](https://twitter.com/apjoex)
+[<i class="fa fa-twitter"></i>](https://twitter.com/apjoex)
 <i class="fa fa-github"></i>[GitHub](https://github.com/apjoex)
 </p>
 
