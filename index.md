@@ -6,7 +6,7 @@ layout: default
 ---
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
-<p style="align:center">
+<p style="text-align:center; margin-left:5px; margin-right:5px">
 
 <a href="https://twitter.com/in/{{ site.twitter_username }}">
       <i class="fa fa-twitter"></i> Twitter
