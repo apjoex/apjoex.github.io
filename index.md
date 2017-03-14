@@ -4,10 +4,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 <p style="text-align:center"> This is a demo paragraph</p>
 
-[Twitter](https://twitter.com/apjoex)
+<i class="fa fa-twitter" aria-hidden="true"></i>[Twitter](https://twitter.com/apjoex)</i>
 [GitHub](https://github.com/apjoex)
 
 Here is a list of the few things I've written 👇
