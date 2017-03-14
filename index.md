@@ -5,7 +5,10 @@
 layout: default
 ---
 
-The posts are attached below.
+[Twitter](https://twitter.com/apjoex)
+[GitHub](https://github.com/apjoex)
+
+Here is a list of the few things I've written 👇
 <ul>
   {% for post in site.posts %}
     <li>
@@ -13,6 +16,3 @@ The posts are attached below.
     </li>
   {% endfor %}
 </ul>
-
-You can find the source code for the Jekyll new theme at:
-[Twitter](https://twitter.com/apjoex)
