@@ -4,17 +4,31 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
+
+<style>
+.ul_block {
+  padding: 0;
+  margin: 0;
+  display: block;
+}
+
+.ul_block li {
+  display: inline;
+}
+</style>
+
+
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
-<ul style=" width: 200px; text-align:center; display:block; margin-left:auto; margin-right:auto">
+<ul class="ul_block">
 
-<li style="margin-left:5px; margin-right:5px; display: inline;">
+<li>
 <a href="https://twitter.com/{{ site.twitter_username }}">
       <i class="fa fa-twitter"></i> Twitter
     </a>
 </li>
 
-<li style="margin-left:5px; margin-right:5px; display: inline;">
+<li>
 <a href="https://github.com/{{ site.github_username }}">
       <i class="fa fa-github"></i> GitHub
     </a>
