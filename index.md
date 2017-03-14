@@ -6,10 +6,17 @@ layout: default
 ---
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
-<div style="align:center">
-<i class="fa fa-twitter" aria-hidden="true"></i>[@apjoex](https://twitter.com/apjoex)
-<i class="fa fa-github" aria-hidden="true"></i>[@apjoex](https://github.com/apjoex)
-</div>
+<p style="align:center">
+
+<a href="https://twitter.com/in/{{ site.twitter_username }}">
+      <i class="fa fa-twitter"></i> Twitter
+    </a>
+
+<a href="https://github.com/{{ site.github_username }}">
+      <i class="fa fa-github"></i> GitHub
+    </a>
+
+</p>
 
 Here is a list of the few things I've written 👇
 <ul>
