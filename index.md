@@ -6,17 +6,21 @@ layout: default
 ---
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
-<p style="text-align:center; margin-left:5px; margin-right:5px">
+<ul style=" display: inline; align:center;">
 
-<a href="https://twitter.com/in/{{ site.twitter_username }}">
+<li style="margin-left:5px; margin-right:5px">
+<a href="https://twitter.com/{{ site.twitter_username }}">
       <i class="fa fa-twitter"></i> Twitter
     </a>
+</li>
 
+<li style="margin-left:5px; margin-right:5px">
 <a href="https://github.com/{{ site.github_username }}">
       <i class="fa fa-github"></i> GitHub
     </a>
+</li>
 
-</p>
+</ul>
 
 Here is a list of the few things I've written 👇
 <ul>
