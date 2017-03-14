@@ -13,3 +13,7 @@ The posts are attached below.
     </li>
   {% endfor %}
 </ul>
+
+You can find the source code for the Jekyll new theme at:
+{% include icon-github.html username="jekyll" %} /
+[minima](https://github.com/jekyll/minima)
