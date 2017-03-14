@@ -6,15 +6,15 @@ layout: default
 ---
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
-<ul style=" display: inline; align:center;">
+<ul style="align:center;">
 
-<li style="margin-left:5px; margin-right:5px">
+<li style="margin-left:5px; margin-right:5px; display: inline;">
 <a href="https://twitter.com/{{ site.twitter_username }}">
       <i class="fa fa-twitter"></i> Twitter
     </a>
 </li>
 
-<li style="margin-left:5px; margin-right:5px">
+<li style="margin-left:5px; margin-right:5px; display: inline;">
 <a href="https://github.com/{{ site.github_username }}">
       <i class="fa fa-github"></i> GitHub
     </a>
