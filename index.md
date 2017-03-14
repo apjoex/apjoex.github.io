@@ -5,10 +5,10 @@
 layout: default
 ---
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-<p style="text-align:center"> This is a demo paragraph</p>
-
-<i class="fa fa-twitter" aria-hidden="true"></i>[Twitter](https://twitter.com/apjoex)</i>
-[GitHub](https://github.com/apjoex)
+<p style="text-align:center; font-size:20px"> 
+<i class="fa fa-twitter" aria-hidden="true"></i>[@apjoex](https://twitter.com/apjoex)
+<i class="fa fa-github" aria-hidden="true"></i>[GitHub](https://github.com/apjoex)
+</p>
 
 Here is a list of the few things I've written 👇
 <ul>
