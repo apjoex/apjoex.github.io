@@ -6,7 +6,7 @@ layout: default
 ---
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
-<ul style="display:block; margin-left:auto; margin-right:auto">
+<ul style=" text-align:center; display:block; margin-left:auto; margin-right:auto">
 
 <li style="margin-left:5px; margin-right:5px; display: inline;">
 <a href="https://twitter.com/{{ site.twitter_username }}">
